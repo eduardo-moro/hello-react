@@ -1,4 +1,4 @@
-<img style="min-width:  200px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" min-width="200px" max-width="200px" width="200px" align="right">
+<img style="min-width:  400px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" min-width="400px" max-width="400px" width="400px" align="right">
 <h1 align="left">Olá mundo!</h1>
 <h3 align="left">Um projeto simples, para estudos.</h3>
 
