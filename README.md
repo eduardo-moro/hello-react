@@ -8,6 +8,6 @@
 - [ ] Como criar do zero uma aplicação de react-native;
 - [ ] Como criar diversos componentes muito utilizados na maioria das aplicações ( abas, listagens, uso de camera, scrolls auto-gerados, dialogues, e etc );
 - [ ] Como configurar EsLint em uma aplicação JS, para seguir uma padronização de código;
-- [ ] Como criar um código desaclopado, que possua funções que possam ser reaproveitadas na aplicação inteira;
+- [ ] Como criar um código desacoplado, que possua funções que possam ser reaproveitadas na aplicação inteira;
 - [ ] Como ligar o front-end react-native à um back-end php;
 - [ ] Como exportar uma aplicação react native para as principais plataformas ( Android, Web e IOS ).
