@@ -1,4 +1,3 @@
-<img style="min-width:  125px !important;" src="https://apprecs.org/gp/images/app-icons/300/d8/host.exp.exponent.jpg" min-width="125px" max-width="125px" width="125px" align="right">
 <img style="min-width:  200px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" min-width="200px" max-width="200px" width="200px" align="right">
 <br>
 <h1 align="left">Hello world!</h1>
