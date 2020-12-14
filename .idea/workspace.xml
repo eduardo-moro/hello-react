@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d85abcbf-8aff-45c6-a43f-0f443cc3f9b5" name="Default Changelist" comment="" />
+    <list default="true" id="d85abcbf-8aff-45c6-a43f-0f443cc3f9b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/HandText.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/BottomTabNavigator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/BottomTabNavigator.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/TabOneScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/TabOneScreen.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +38,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,20 +53,24 @@
       <option name="presentableId" value="Default" />
       <updated>1607563107953</updated>
       <workItem from="1607563109118" duration="4339000" />
+      <workItem from="1607878317383" duration="4055000" />
+      <workItem from="1607891532793" duration="9349000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="223" y="239" key="run.anything.popup" timestamp="1607564645346">
-      <screen x="0" y="22" width="1680" height="1028" />
-    </state>
-    <state x="223" y="239" key="run.anything.popup/0.22.1680.1028/1680.0.1440.900@0.22.1680.1028" timestamp="1607564645346" />
-    <state x="115" y="232" key="search.everywhere.popup" timestamp="1607567089133">
-      <screen x="0" y="22" width="1680" height="1028" />
-    </state>
-    <state x="115" y="232" key="search.everywhere.popup/0.22.1680.1028/1680.0.1440.900@0.22.1680.1028" timestamp="1607567089133" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/App.tsx</url>
+          <line>19</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
