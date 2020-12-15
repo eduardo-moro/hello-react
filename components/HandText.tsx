@@ -1,25 +1,26 @@
-import * as React from 'react';
+import React, {useEffect, useState} from 'react';
+import {Text, TextProps} from "./Themed";
 
 export function HandText(props) {
-    startCounter(props);
-    return(
-        <div id="test"></div>
-    );
-}
-
-
-function startCounter(props)
-{
-    let index = 0
-    let text = window.setInterval(
-        () => {
-            document.getElementById('test').innerText += props["children"][index];
-                if(index +1 == props["children"].length)
+    const [text, setTextVal] = useState('');
+    let index = 0;
+    let string = '';
+        useEffect(() =>{
+            let textInterval = setInterval(() => {
+                string += props.children[index];
+                setTextVal(text + string);
+                if(index +1 == props.children.length)
                 {
-                    clearInterval(text);
+                    clearInterval(textInterval);
                 }
-            index++;
-        },
-      80 + 20 * Math.random()
-    )
+                index++ ;
+            },
+          60 + 20 * Math.random())
+        }, []);
+
+    return <>
+        <Text style={props.style}>
+            { text }
+        </Text>
+    </>;
 }

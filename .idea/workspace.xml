@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d85abcbf-8aff-45c6-a43f-0f443cc3f9b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/HandText.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navigation/BottomTabNavigator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/BottomTabNavigator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/NotFoundScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HandText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/HandText.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/screens/TabOneScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/TabOneScreen.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +37,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -55,6 +52,10 @@
       <workItem from="1607563109118" duration="4339000" />
       <workItem from="1607878317383" duration="4055000" />
       <workItem from="1607891532793" duration="9349000" />
+      <workItem from="1607997609205" duration="42000" />
+      <workItem from="1607997679980" duration="104000" />
+      <workItem from="1607997819473" duration="3836000" />
+      <workItem from="1608002766694" duration="1726000" />
     </task>
     <servers />
   </component>
@@ -67,7 +68,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/App.tsx</url>
           <line>19</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
